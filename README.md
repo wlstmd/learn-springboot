@@ -1,5 +1,7 @@
 # Spring Boot 공부 내용을 정리하는 레포입니다.
 
+- 다단계적으로 이루어져 있습니다.
+
 ## content
 
 - Exception
@@ -8,6 +10,7 @@
 - SQL
 - CRUD (MemoryDB, MySQL)
 - JPA
+- 게시판 프로젝트
 
 # RestAPI
 
